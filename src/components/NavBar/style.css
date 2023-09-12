@@ -1,0 +1,14 @@
+.market-sice{
+    width: 75px;
+}
+
+.navbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    background-color: rgb(205, 191, 70);
+}
+
+img {
+    height: 100px;
+}

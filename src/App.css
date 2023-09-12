@@ -1,3 +1,11 @@
+
+
+.Primera-Linea{
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+
 .App {
   text-align: center;
 }

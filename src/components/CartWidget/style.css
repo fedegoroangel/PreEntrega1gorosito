@@ -1,0 +1,9 @@
+*{
+    margin: 0;
+}
+
+.Compras {
+    display: flex;
+    align-items: center;
+}
+
