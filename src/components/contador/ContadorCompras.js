@@ -18,7 +18,7 @@ const decrementar =() => {
     <div>
       <Boton titulo={"comprar"} funcion ={incrementar}/>
       <p>{cuenta}</p>
-      <Boton titulo={"cancelar"}funcion ={decrementar}/>
+      <Boton titulo={"cancelar"} funcion ={decrementar}/>
     </div>
   )
 }

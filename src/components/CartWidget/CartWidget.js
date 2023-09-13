@@ -5,6 +5,7 @@ import "../CartWidget/style.css"
 
 const CartWidget = () => {
 
+
     return (
         <div className="Compras">
             <img src={cart} alt="cart-Widget" />
